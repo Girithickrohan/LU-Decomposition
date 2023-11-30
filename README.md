@@ -47,11 +47,11 @@ print(x)
 ## Output:
 Output 1:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/LU-Decomposition/main/out1.png)
 
 Output 2:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/LU-Decomposition/main/out2.png)
 
 
 ## Result:
